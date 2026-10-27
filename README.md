@@ -1,4 +1,4 @@
-## Olá, eu sou o Frederico 👋
+## Olá, eu sou o Frederico 
 
 Estudante de **Engenharia de Computação na PUCPR** (Curitiba), no 4º período. Gosto de projetos que juntam programação e hardware: de simulações em C a robôs com Arduino.
 
